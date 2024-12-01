@@ -20,26 +20,28 @@ Vikas Paspula				SE23MAID024
 Group Contribution:
 
 1.	Himavanth Jeevanigaa (SE23MAID021):
+   
 o	Contributed to data collection and preprocessing, including handling missing values and performing stationarity checks.
 o	Drafted sections of the report related to data preprocessing and the importance of stationarity.
-2. Sadula Gnana Bhavya Sri (SE23MAID015):
+
+3. Sadula Gnana Bhavya Sri (SE23MAID015):
 o	Focused on the ARIMA model development.
 o	Conducted ACF/PACF analysis to select model parameters.
 o	Prepared training and testing datasets for ARIMA and evaluated its performance.
-3.	Yasaswi Vanarasi (SE23MAID016):
+4.	Yasaswi Vanarasi (SE23MAID016):
 o	Worked on designing and implementing the LSTM model.
 o	Prepared data sequences and ensured proper scaling for LSTM training.
 o	Designed the architecture of the LSTM network and trained the model.
-4.	Yempathi Aashritha (SE23MAID017):
+5.	Yempathi Aashritha (SE23MAID017):
 o	Conducted exploratory data analysis and created visualizations, such as ACF/PACF plots and model comparison graphs.
 o	Assisted with the hybrid model integration, focusing on combining ARIMA and LSTM outputs using weighted averages.
 o	Contributed to the evaluation and interpretation of metrics like MAE and RMSE.
-5.	Jyothi Narsini (SE23MAID012):
+6.	Jyothi Narsini (SE23MAID012):
 o	Led the development of the hybrid ARIMA-LSTM model.
 o	Designed the weighted averaging methodology to combine outputs effectively.
 o	Evaluated the hybrid model’s performance and prepared comparative analyses.
 o	Assisted in creating visualizations comparing predictions of ARIMA, LSTM, and the hybrid model.
-6.	Vikas Paspula (SE23MAID024):
+7.	Vikas Paspula (SE23MAID024):
 o	Contributed to report writing, especially the introduction and conclusion sections.
 o	Reviewed and edited the entire report for coherence and clarity.
 o	Ensured that technical content was well-documented and organized.
