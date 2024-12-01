@@ -5,12 +5,16 @@ Group Name: G_012_015_016_017_021_024 [MTech]
 
 Jyothi Narsini				SE23MAID012
 
-
 Sadula Gnana Bhavya Sri		SE23MAID015
+
 Yasaswi Vanarasi			SE23MAID016
+
 Yempathi Aashritha			SE23MAID017
+
 Himavanth Jeevanigaa		SE23MAID021
+
 Vikas Paspula				SE23MAID024
+
 
 
 Group Contribution:
@@ -103,15 +107,23 @@ o	Root Mean Squared Error (RMSE): Measures large errors more heavily.
 Step 5: Visualizations
 1.	ACF/PACF Plots: Showed lagged correlations and helped us decide ARIMA parameters.
 2.	Model Predictions: Plots compared ARIMA, LSTM, and Hybrid forecasts against actual stock prices.
+   
 Key Insights from Plots:
+
 •	ARIMA was accurate for smooth trends but missed sudden changes.
+
 •	LSTM captured sharp spikes but sometimes overfitted.
+
 •	The hybrid model performed the best, balancing short-term and long-term accuracy.
+
 
 Conclusion
 The hybrid ARIMA-LSTM model worked better than standalone models because it used the strengths of both:
+
 •	ARIMA captured short-term patterns.
+
 •	LSTM captured non-linear dependencies.
+
 •	The hybrid model gave the lowest prediction error, making it the best choice for stock price forecasting.
 
 
