@@ -69,7 +69,9 @@ o	Ensured that technical content was well-documented and organized.
 
  
 Hybrid ARIMA-LSTM Model for Stock Price Forecasting
+
 Introduction
+
 In this report, we describe how we built a hybrid forecasting model combining ARIMA and LSTM to predict daily stock prices. Stock price prediction is challenging because prices often show trends, seasonality, and random patterns. ARIMA works well with trends and seasonality, while LSTM handles complex patterns like sudden price spikes. By combining both, we aimed to improve prediction accuracy.
 
 Step 1: Data Collection and Preprocessing
